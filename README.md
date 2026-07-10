@@ -1,2 +1,2 @@
 # primer-pr-practica
-Repo de practica para mi primer PR
+Repo de práctica para mi primer PR.
